@@ -186,7 +186,7 @@ def scrape_hacker_forums_with_quantum(query: str) -> list:
 def show_menu():
     """Display the main menu options."""
     print("Main Menu:")
-        print("1. Collect and preprocess data from Dark Web URL")
+    print("1. Collect and preprocess data from Dark Web URL")
     print("2. Train DarkBERT model")
     print("3. Select model for advanced search")
     print("4. Perform advanced search")
