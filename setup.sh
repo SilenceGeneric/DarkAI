@@ -11,6 +11,14 @@ for dependency in "${dependencies[@]}"; do
     fi
 done
 
+# Update conda
+echo "Updating conda..."
+conda update conda -y
+
+# Update conda environment
+echo "Updating conda environment..."
+CONDA_NO_PLUGINS=true conda env update --file environment.yml --name base
+
 # Install Python packages
 echo "Installing Python packages..."
 pip3 install torch transformers beautifulsoup4 selenium nltk qiskit openai datasets
