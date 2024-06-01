@@ -1,7 +1,5 @@
                      # DarkAI #
 
----
-
 # Project Setup Guide: DarkAI - Advanced Tool
 
 !!Only tested in my linux environment!!
