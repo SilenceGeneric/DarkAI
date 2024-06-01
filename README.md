@@ -1,14 +1,14 @@
-                     # DarkAI #
+# DarkAI #
 
-# Project Setup Guide: DarkAI - Advanced Tool
+# Project Setup Guide: DarkAI - Advanced Tool #
 
 !!Only tested in my linux environment!!
 
-## Overview
+## Overview #
 
 DarkAI - Advanced Tool is a powerful software application designed to streamline various tasks such as data collection from the dark web, training advanced language models, quantum optimization, and more.
 
-## Setup Script
+## Setup Script ##
 
 Make it executable using the following command:
 
@@ -24,7 +24,7 @@ To run the script, simply execute:
 
 #This script will automatically install all necessary dependencies, clone the repository, navigate to the project directory, and run the main script. If it doesn't, below is how to set the project up.
 
-## Prerequisites
+## Prerequisites ##
 
 Before setting up the project, ensure that you have the following prerequisites installed on your system:
 
@@ -32,7 +32,7 @@ Before setting up the project, ensure that you have the following prerequisites 
 - Git (optional, for cloning the repository)
 - Internet connection
 
-## Step 1: Clone the Repository
+## Step 1: Clone the Repository ##
 
 If you haven't already, clone the DarkAI repository from GitHub:
 
@@ -42,7 +42,7 @@ git clone https://github.com/SilenceGeneric/DarkAI.git
 
 Alternatively, you can download the repository as a ZIP file and extract it to your desired location.
 
-## Step 2: Install Dependencies
+## Step 2: Install Dependencies ##
 
 Navigate to the project directory and install the required Python dependencies using pip:
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 This will install all necessary libraries and packages needed for the project to run smoothly.
 
-## Step 3: Run the Project
+## Step 3: Run the Project ##
 
 To start using DarkAI - Advanced Tool, run the main script:
 
@@ -63,7 +63,7 @@ python main.py
 
 This will launch the user interface of the tool, allowing you to interact with its various features.
 
-## Using the User Interface
+## Using the User Interface ##
 
 Upon running the main script, you'll be presented with the DarkAI - Advanced Tool interface. Here's a brief overview of its functionalities:
 
@@ -81,6 +81,6 @@ Upon running the main script, you'll be presented with the DarkAI - Advanced Too
 
 7. **Exit**: Close the DarkAI - Advanced Tool interface and exit the program.
 
-## Additional Notes
+## Additional Notes ##
 
 - Make sure to follow on-screen prompts and input requirements while using the tool.
