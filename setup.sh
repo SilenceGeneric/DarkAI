@@ -15,6 +15,21 @@ done
 echo "Installing Python packages..."
 pip install torch transformers beautifulsoup4 selenium nltk qiskit openai datasets
 
+# Install Selenium
+!pip install selenium
+
+# Import Selenium
+from selenium import webdriver
+
+# Verify the installation
+!pip show selenium
+
+# Simple usage example
+driver = webdriver.Chrome()
+driver.get('http://www.google.com/')
+print(driver.title)
+driver.quit()
+
 # Clone the repository
 echo "Cloning the repository..."
 git clone https://github.com/yourusername/darkweb-analysis.git
