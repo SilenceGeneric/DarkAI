@@ -1,10 +1,11 @@
-name: darkai
+name: base
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.10
-  - pytorch
+  - python=3.8
+  - pip
+  - torch
   - transformers
   - beautifulsoup4
   - selenium
@@ -12,8 +13,6 @@ dependencies:
   - qiskit
   - openai
   - datasets
-  - flake8
-  - pytest
-  - pip
   - pip:
-      - chromedriver-binary
+    - chromedriver-binary
+    
