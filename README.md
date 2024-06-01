@@ -12,6 +12,8 @@ DarkAI - Advanced Tool is a powerful software application designed to streamline
 
 Make it executable using the following command:
 
+
+
 bash
 Copy code
 chmod +x setup.sh
@@ -20,6 +22,8 @@ To run the script, simply execute:
 bash
 Copy code
 ./setup.sh
+
+
 #This script will automatically install all necessary dependencies, clone the repository, navigate to the project directory, and run the main script. If it doesn't, below is how to set the project up.
 
 ## Prerequisites
