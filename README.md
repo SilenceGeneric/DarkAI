@@ -4,6 +4,8 @@
 
 # Project Setup Guide: DarkAI - Advanced Tool
 
+!!Only tested in my linux environment!!
+
 ## Overview
 
 DarkAI - Advanced Tool is a powerful software application designed to streamline various tasks such as data collection from the dark web, training advanced language models, quantum optimization, and more.
