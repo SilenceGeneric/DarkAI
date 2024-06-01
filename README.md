@@ -8,6 +8,20 @@
 
 DarkAI - Advanced Tool is a powerful software application designed to streamline various tasks such as data collection from the dark web, training advanced language models, quantum optimization, and more.
 
+## Setup Script
+
+Make it executable using the following command:
+
+bash
+Copy code
+chmod +x setup.sh
+To run the script, simply execute:
+
+bash
+Copy code
+./setup.sh
+#This script will automatically install all necessary dependencies, clone the repository, navigate to the project directory, and run the main script. If it doesn't, below is how to set the project up.
+
 ## Prerequisites
 
 Before setting up the project, ensure that you have the following prerequisites installed on your system:
