@@ -80,8 +80,3 @@ Upon running the main script, you'll be presented with the DarkAI - Advanced Too
 ## Additional Notes
 
 - Make sure to follow on-screen prompts and input requirements while using the tool.
-- Consult the project documentation or source code for detailed information on each feature and function.
-
----
-
-With this guide, you should be able to successfully set up and run DarkAI - Advanced Tool on your system. Happy exploring!
