@@ -1,0 +1,19 @@
+name: darkai
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch
+  - transformers
+  - beautifulsoup4
+  - selenium
+  - nltk
+  - qiskit
+  - openai
+  - datasets
+  - flake8
+  - pytest
+  - pip
+  - pip:
+      - chromedriver-binary
