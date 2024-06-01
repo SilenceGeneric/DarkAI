@@ -13,7 +13,7 @@ done
 
 # Install Python packages
 echo "Installing Python packages..."
-pip install torch transformers beautifulsoup4 selenium nltk qiskit openai datasets
+pip install torch transformers beautifulsoup4 selenium nltk qiskit openai datasets python3-pip
 
 # Install Selenium
 !pip install selenium
@@ -32,7 +32,7 @@ driver.quit()
 
 # Clone the repository
 echo "Cloning the repository..."
-git clone https://github.com/yourusername/darkweb-analysis.git
+git clone https://github.com/SilenceGeneric/DarkAI.git
 
 # Navigate to the project directory
 cd DarkAI
